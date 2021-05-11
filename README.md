@@ -98,6 +98,7 @@ All models are trained for 60 epochs with a 10% steps linear warmup.
 | ChemProt |     1e-5      |       256       |     16     |           1           |
 |   DDI    |     1e-5      |       256       |     16     |           1           |
 |   GAD    |     1e-5      |       128       |     16     |           1           |
+
 BC2GM, GAD and DDI datasets have relatively higher variance, you can try different seeds by setting `--seed $seed_number`.
 
 # UMLS Knowledge Probing
