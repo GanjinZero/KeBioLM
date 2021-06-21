@@ -1,4 +1,20 @@
 # KeBioLM
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/improving-biomedical-pretrained-language/relation-extraction-on-ddi)](https://paperswithcode.com/sota/relation-extraction-on-ddi?p=improving-biomedical-pretrained-language)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/improving-biomedical-pretrained-language/relation-extraction-on-gad)](https://paperswithcode.com/sota/relation-extraction-on-gad?p=improving-biomedical-pretrained-language)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/improving-biomedical-pretrained-language/named-entity-recognition-ner-on-jnlpba)](https://paperswithcode.com/sota/named-entity-recognition-ner-on-jnlpba?p=improving-biomedical-pretrained-language)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/improving-biomedical-pretrained-language/named-entity-recognition-on-bc2gm)](https://paperswithcode.com/sota/named-entity-recognition-on-bc2gm?p=improving-biomedical-pretrained-language)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/improving-biomedical-pretrained-language/relation-extraction-on-chemprot)](https://paperswithcode.com/sota/relation-extraction-on-chemprot?p=improving-biomedical-pretrained-language)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/improving-biomedical-pretrained-language/named-entity-recognition-on-bc5cdr-chemical)](https://paperswithcode.com/sota/named-entity-recognition-on-bc5cdr-chemical?p=improving-biomedical-pretrained-language)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/improving-biomedical-pretrained-language/named-entity-recognition-on-bc5cdr-disease)](https://paperswithcode.com/sota/named-entity-recognition-on-bc5cdr-disease?p=improving-biomedical-pretrained-language)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/improving-biomedical-pretrained-language/named-entity-recognition-ner-on-ncbi-disease)](https://paperswithcode.com/sota/named-entity-recognition-ner-on-ncbi-disease?p=improving-biomedical-pretrained-language)
+
 Improving Biomedical Pretrained Language Models with Knowledge.
 Accepted by BioNLP 2021.
 [Paper](https://arxiv.org/abs/2104.10344)
