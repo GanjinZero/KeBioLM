@@ -151,3 +151,24 @@ To perform evaluation on probing results, using:
 cd probe
 python metric.py $predict_file dataset.txt $UMLS_DIR
 ```
+
+## Citation
+```bibtex
+@inproceedings{yuan-etal-2021-improving,
+    title = "Improving Biomedical Pretrained Language Models with Knowledge",
+    author = "Yuan, Zheng  and
+      Liu, Yijia  and
+      Tan, Chuanqi  and
+      Huang, Songfang  and
+      Huang, Fei",
+    booktitle = "Proceedings of the 20th Workshop on Biomedical Language Processing",
+    month = jun,
+    year = "2021",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.bionlp-1.20",
+    doi = "10.18653/v1/2021.bionlp-1.20",
+    pages = "180--190",
+    abstract = "Pretrained language models have shown success in many natural language processing tasks. Many works explore to incorporate the knowledge into the language models. In the biomedical domain, experts have taken decades of effort on building large-scale knowledge bases. For example, UMLS contains millions of entities with their synonyms and defines hundreds of relations among entities. Leveraging this knowledge can benefit a variety of downstream tasks such as named entity recognition and relation extraction. To this end, we propose KeBioLM, a biomedical pretrained language model that explicitly leverages knowledge from the UMLS knowledge bases. Specifically, we extract entities from PubMed abstracts and link them to UMLS. We then train a knowledge-aware language model that firstly applies a text-only encoding layer to learn entity representation and then applies a text-entity fusion encoding to aggregate entity representation. In addition, we add two training objectives as entity detection and entity linking. Experiments on the named entity recognition and relation extraction tasks from the BLURB benchmark demonstrate the effectiveness of our approach. Further analysis on a collected probing dataset shows that our model has better ability to model medical knowledge.",
+}
+```
